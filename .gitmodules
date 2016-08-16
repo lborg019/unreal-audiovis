@@ -1,0 +1,3 @@
+[submodule "Plugins/SteamControllerPlus"]
+	path = Plugins/SteamControllerPlus
+	url = https://github.com/alaingalvan/unreal-steamcontroller-plus
