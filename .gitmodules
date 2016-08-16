@@ -1,3 +1,7 @@
 [submodule "Plugins/SteamControllerPlus"]
 	path = Plugins/SteamControllerPlus
 	url = https://github.com/alaingalvan/unreal-steamcontroller-plus
+
+[submodule "Plugins/AudioLoopback"]
+	path = Plugins/AudioLoopback
+	url = https://github.com/lborg019/unreal-audioloopback
